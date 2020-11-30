@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">学数学</string>
+    <string name="answer_is_blank">"请输入答案"</string>
+    <string name="correct_toast">正确！</string>
+    <string name="incorrect_toast">错误！</string>
+</resources>
